@@ -1,12 +1,12 @@
-================
-Question Bank 1
-================
+====================
+SI 106 Fall 17 Final
+====================
 
 .. mchoice:: 106f17final_6
 
-    .. comp_std:: BPP
-        :prim_comp: FUNC05
-        :supp_comp: FUNC01, COND02, COND03, DEBUG01
+
+    :prim_comp: FUNC05
+    :supp_comp: FUNC01, COND02, COND03, DEBUG01
 
     What is printed when the code below is fun?
 
@@ -51,9 +51,8 @@ Question Bank 1
 
 .. activecode:: 106f17final_20
 
-    .. comp_std:: BPP
-        :prim_comp: FUNC01
-        :supp_comp: VES03, FUNC02, SEQ06, STR03, STR06, DICT02, DICT03, ITER03
+    :prim_comp: FUNC01
+    :supp_comp: VES03, FUNC02, SEQ06, STR03, STR06, DICT02, DICT03, ITER03
 
     :language: python
 
